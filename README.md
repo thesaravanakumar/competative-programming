@@ -1,5 +1,7 @@
 # competative-programming
- 
+ <a href="http://makeapullrequest.com">
+  <img align="center"  src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"/>
+</a>
  <h3 align="center" style="margin-top: 0px;"><strong>CODECHEF</strong></h3>
   
 <p align="center">
